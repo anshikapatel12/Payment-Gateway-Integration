@@ -1,0 +1,95 @@
+body{
+    margin: 0 0 0 0;
+}
+header{
+    text-align: center;
+    margin: 0 0 0 0;
+    background-color: green;
+}
+.menu a{
+    text-decoration: none;
+    padding: 10px 10px;
+    font-size: 20px;
+    color: pink;
+}
+h3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 35px;
+    color: white;
+    margin: 0 0 0 0;
+}
+.menu{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding: 15px 0;
+}
+.menu a:hover{
+    color:black;
+    background-color: rgba(39, 62, 84, 0, 0.82);
+}
+.icons{
+    text-align: center;
+    letter-spacing: 10px;
+}
+.icons p{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.icons a{
+    color: pink;
+}
+.fa-facebook:hover{
+    color: #0b3b92;
+}
+.fa-github:hover{
+    color: black;
+}
+.fa-instagram:hover{
+    color:#DD2A7B;
+}
+.info p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: auto;
+    font-size:50px;
+    margin: 0 0 0 0;
+    padding:100px 0 20px 0;
+    color: white;
+}
+.info{
+    background-image: linear-gradient(rgba(39, 62, 84, 0, 0.82),rgba(39, 62, 84, 0, 0.82)),url("images/html-color-codes-color-tutorials-hero.jpg");
+    /* background-size: auto; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color:#001;
+    height:100vh;
+}
+form{
+    text-align: center;
+    padding:0 0 30px 0;
+}
+.about-us th{
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin:0 0 0 0;
+    padding: 5px 0 0 0;
+}
+.about-us tr{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.about-us th{
+    font-size: 30px;
+}
+.about-us td{
+    font-size: 20px
+}
+.about-us table{
+    text-align: auto;
+}
+.about-us{
+    text-align: auto;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: auto;
+    width:100%;
+    padding-top:30px;
+}
+footer{
+    margin: 50px 0;
+}
